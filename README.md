@@ -1,2 +1,4 @@
-# lepc.fi.iot.github.iu
-Luis Enrique Palacios Castro
+# gilpgiot.github.io
+Ejemplo de IoT con Firestore.
+
+https://gilpgiot.github.io
